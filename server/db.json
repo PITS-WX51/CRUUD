@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "mechanics": [
+    {
+      "firstName": "Luis",
+      "lastName": "Acosta",
+      "email": "asdf@gmai.com",
+      "date": "2023-05-01T05:00:00.000Z",
+      "supplier": "Option1",
+      "id": 1
+    },
+    {
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "asd@adf.com",
+      "date": "2023-05-09T05:00:00.000Z",
+      "supplier": "Option2",
+      "id": 2
+    },
+    {
+      "firstName": "as",
+      "lastName": "asd",
+      "email": "asd@asdfas.com",
+      "date": "2023-05-16T05:00:00.000Z",
+      "supplier": "Option2",
+      "id": 3
+    },
+    {
+      "firstName": "jair",
+      "lastName": "asd",
+      "email": "asd@fdhakjl.com",
+      "date": "2023-05-18T05:00:00.000Z",
+      "supplier": "Option3",
+      "id": 4
+    }
+  ]
+}
